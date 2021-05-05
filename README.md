@@ -7,7 +7,6 @@
 - 👯 I like photography and eating food!
 - 🏄‍ I write my personal thoughts on Programming & Tech in [my blog](emoryhuang.github.io)
 
-![visitors](https://visitor-badge.glitch.me/badge?EmoryHuang=EmoryHuang)
 
 <details>
   <summary>⚡GitHub Stats</summary>
