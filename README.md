@@ -1,7 +1,6 @@
 ## 👋 Hi, I’m EmoryHuang
 ![](https://komarev.com/ghpvc/?username=EmoryHuang)
-
-![](https://img.shields.io/appveyor/build/EmoryHuang/EmoryHuang)
+![](https://img.shields.io/badge/build-passing-brightgreen)
 - 🧐 I am a student from China
 - 💻 Major is big data technology and application
 - 🌱 I'm currently learning everything
