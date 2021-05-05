@@ -8,15 +8,12 @@
 - 🏄‍ I write my personal thoughts on Programming & Tech in [my blog](emoryhuang.github.io)
 
 
-<details>
-  <summary>⚡GitHub Stats</summary>
-![EmoryHuang's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmoryHuang&show_icons=true&theme=tokyonight)
-</details>
-<details open>
-  <summary>⚡Github Activity Graph</summary>
-![EmoryHuang's github activity graph](https://activity-graph.herokuapp.com/graph?username=EmoryHuang&theme=dracula)
-</details>
 
+## ⚡GitHub Stats
+![EmoryHuang's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmoryHuang&show_icons=true&theme=tokyonight)
+
+## ⚡Github Activity Graph
+![EmoryHuang's github activity graph](https://activity-graph.herokuapp.com/graph?username=EmoryHuang&theme=dracula)
 
 <!---
 EmoryHuang/EmoryHuang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
