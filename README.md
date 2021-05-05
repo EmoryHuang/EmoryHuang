@@ -9,7 +9,9 @@
 - 👯 I like photography and eating food!
 - 🏄‍ I write my personal thoughts on Programming & Tech in [my blog](emoryhuang.github.io)
 
-
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## ⚡GitHub Stats
 ![EmoryHuang's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmoryHuang&show_icons=true&theme=tokyonight)
