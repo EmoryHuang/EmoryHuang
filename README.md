@@ -1,16 +1,16 @@
-<h1 align="center">👋 Hi, I’m EmoryHuang</h1>
-<h3> I am a student from China</h3>
-<br>
-<br>
+## 👋 Hi, I’m EmoryHuang
+![](https://komarev.com/ghpvc/?username=EmoryHuang)
 
-- 💻 Major is big data technology and application.
+![](https://img.shields.io/appveyor/build/EmoryHuang/EmoryHuang)
+- 🧐 I am a student from China
+- 💻 Major is big data technology and application
 - 🌱 I'm currently learning everything
-- 🏄‍Welcome come to [my blog](emoryhuang.github.io)
-- 👯I like photography and eating food!
+- 👯 I like photography and eating food!
+- 🏄‍ I write my personal thoughts on Programming & Tech in [my blog](emoryhuang.github.io)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmoryHuang&layout=compact)
+![visitors](https://visitor-badge.glitch.me/badge?EmoryHuang=EmoryHuang)
 
-<details open>
+<details>
   <summary>⚡GitHub Stats</summary>
 ![EmoryHuang's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmoryHuang&show_icons=true&theme=tokyonight)
 </details>
