@@ -1,4 +1,6 @@
 ## 👋 Hi, I’m EmoryHuang
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/emoryhuang)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:vunihbolvep@gmail.com)
 ![](https://komarev.com/ghpvc/?username=EmoryHuang)
 ![](https://img.shields.io/badge/build-passing-brightgreen)
 - 🧐 I am a student from China
