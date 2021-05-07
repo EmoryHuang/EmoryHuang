@@ -13,6 +13,10 @@
 <!-- STACKOVERFLOW:START -->
 <!-- STACKOVERFLOW:END -->
 
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## ⚡GitHub Stats
 ![EmoryHuang's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmoryHuang&show_icons=true&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EmoryHuang&theme=tokyonight)
