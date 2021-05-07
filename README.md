@@ -9,16 +9,6 @@
 - 👯 I like photography and eating food!
 - 🏄‍ I write my personal thoughts on Programming & Tech in [my blog](emoryhuang.github.io)
 
-## 📕 Latest Blog Posts
-<!-- STACKOVERFLOW:START -->
-- [LeetCode 397. 整数替换](https://emoryhuang.cn/blog/3633703874.html)
-- [LeetCode 1480. 一维数组的动态和](https://emoryhuang.cn/blog/2207630570.html)
-- [LeetCode 1486. 数组异或操作](https://emoryhuang.cn/blog/2225410235.html)
-- [快速幂算法详解](https://emoryhuang.cn/blog/1504958816.html)
-- [搭建博客图床](https://emoryhuang.cn/blog/242848489.html)
-<!-- STACKOVERFLOW:END -->
-
-
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-71-blue)
 
@@ -98,6 +88,15 @@ C++                      1 repo              ████████░░░�
 
 
 <!--END_SECTION:waka-->
+
+## 📕 Latest Blog Posts
+<!-- STACKOVERFLOW:START -->
+- [LeetCode 397. 整数替换](https://emoryhuang.cn/blog/3633703874.html)
+- [LeetCode 1480. 一维数组的动态和](https://emoryhuang.cn/blog/2207630570.html)
+- [LeetCode 1486. 数组异或操作](https://emoryhuang.cn/blog/2225410235.html)
+- [快速幂算法详解](https://emoryhuang.cn/blog/1504958816.html)
+- [搭建博客图床](https://emoryhuang.cn/blog/242848489.html)
+<!-- STACKOVERFLOW:END -->
 
 ## ⚡ GitHub Stats
 ![EmoryHuang's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmoryHuang&show_icons=true&theme=tokyonight)
