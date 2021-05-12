@@ -69,11 +69,11 @@ Excel                    1 min               ░░░░░░░░░░░�
 
 ## 📕 Latest Blog Posts
 <!-- STACKOVERFLOW:START -->
-- [LeetCode 397. 整数替换](https://emoryhuang.cn/blog/3633703874.html)
-- [LeetCode 1480. 一维数组的动态和](https://emoryhuang.cn/blog/2207630570.html)
-- [LeetCode 1486. 数组异或操作](https://emoryhuang.cn/blog/2225410235.html)
-- [快速幂算法详解](https://emoryhuang.cn/blog/1504958816.html)
-- [搭建博客图床](https://emoryhuang.cn/blog/242848489.html)
+- [LeetCode 75. 颜色分类](https://emoryhuang.cn/blog/1955535034.html)
+- [LeetCode 77. 组合](https://emoryhuang.cn/blog/3511946213.html)
+- [LeetCode 55. 跳跃游戏](https://emoryhuang.cn/blog/2392717385.html)
+- [LeetCode 1310. 子数组异或查询](https://emoryhuang.cn/blog/2157773484.html)
+- [C++ STL简介](https://emoryhuang.cn/blog/1876408705.html)
 <!-- STACKOVERFLOW:END -->
 
 ## ⚡ GitHub Stats
