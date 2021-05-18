@@ -68,11 +68,11 @@ PyCharm                  20 mins             ░░░░░░░░░░░�
 
 ## 📕 Latest Blog Posts
 <!-- STACKOVERFLOW:START -->
+- [算法专题汇总](https://emoryhuang.cn/blog/1603169503.html)
+- [背包九讲学习笔记](https://emoryhuang.cn/blog/381047778.html)
+- [常用算法模板——数学知识](https://emoryhuang.cn/blog/1328337473.html)
 - [常用算法模板——搜索与图论](https://emoryhuang.cn/blog/4096131275.html)
 - [C++ STL简介](https://emoryhuang.cn/blog/1876408705.html)
-- [常用算法模板——数据结构](https://emoryhuang.cn/blog/2146740120.html)
-- [常用算法模板——常见算法](https://emoryhuang.cn/blog/2731339405.html)
-- [由数据范围反推算法复杂度以及算法内容](https://emoryhuang.cn/blog/2653263923.html)
 <!-- STACKOVERFLOW:END -->
 
 ## ⚡ GitHub Stats
