@@ -7,7 +7,7 @@
 - 💻 Major is big data technology and application
 - 🌱 I'm currently learning everything
 - 👯 I like photography and eating food!
-- 🏄‍ I write my personal thoughts on Programming & Tech in [my blog](emoryhuang.github.io)
+- 🏄‍ I write my personal thoughts on Programming & Tech in [my blog](https://emoryhuang.github.io)
 
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
