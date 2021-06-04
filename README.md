@@ -69,11 +69,11 @@ Excel                    2 mins              ░░░░░░░░░░░�
 
 ## 📕 Latest Blog Posts
 <!-- STACKOVERFLOW:START -->
+- [便利工具和网站分享](https://emoryhuang.cn/blog/1772203212.html)
+- [Linux 速查备忘手册](https://emoryhuang.cn/blog/8853766.html)
 - [算法专题汇总](https://emoryhuang.cn/blog/1603169503.html)
 - [背包九讲学习笔记](https://emoryhuang.cn/blog/381047778.html)
 - [常用算法模板——数学知识](https://emoryhuang.cn/blog/1328337473.html)
-- [常用算法模板——搜索与图论](https://emoryhuang.cn/blog/4096131275.html)
-- [C++ STL简介](https://emoryhuang.cn/blog/1876408705.html)
 <!-- STACKOVERFLOW:END -->
 
 ## ⚡ GitHub Stats
