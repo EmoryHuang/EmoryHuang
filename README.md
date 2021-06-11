@@ -69,11 +69,11 @@ PyCharm                  2 mins              ░░░░░░░░░░░�
 
 ## 📕 Latest Blog Posts
 <!-- STACKOVERFLOW:START -->
-- [便利工具和网站分享](https://emoryhuang.cn/blog/1772203212.html)
-- [Linux 速查备忘手册](https://emoryhuang.cn/blog/8853766.html)
-- [算法专题汇总](https://emoryhuang.cn/blog/1603169503.html)
-- [背包九讲学习笔记](https://emoryhuang.cn/blog/381047778.html)
-- [常用算法模板——数学知识](https://emoryhuang.cn/blog/1328337473.html)
+- [量化分析经典策略总结](https://emoryhuang.cn/blog/3709186536.html)
+- [经典策略——机器学习(股票)](https://emoryhuang.cn/blog/47590827.html)
+- [经典策略——小市值(股票)](https://emoryhuang.cn/blog/4290062851.html)
+- [经典策略——行业轮动(股票)](https://emoryhuang.cn/blog/3270063667.html)
+- [经典策略——海龟交易法(期货)](https://emoryhuang.cn/blog/301246221.html)
 <!-- STACKOVERFLOW:END -->
 
 ## ⚡ GitHub Stats
