@@ -69,11 +69,11 @@ PyCharm                  2 mins              ░░░░░░░░░░░�
 
 ## 📕 Latest Blog Posts
 <!-- STACKOVERFLOW:START -->
+- [思维工程学习笔记](https://emoryhuang.cn/blog/2717466625.html)
 - [量化分析经典策略总结](https://emoryhuang.cn/blog/3709186536.html)
 - [经典策略——机器学习(股票)](https://emoryhuang.cn/blog/47590827.html)
 - [经典策略——小市值(股票)](https://emoryhuang.cn/blog/4290062851.html)
 - [经典策略——行业轮动(股票)](https://emoryhuang.cn/blog/3270063667.html)
-- [经典策略——海龟交易法(期货)](https://emoryhuang.cn/blog/301246221.html)
 <!-- STACKOVERFLOW:END -->
 
 ## ⚡ GitHub Stats
