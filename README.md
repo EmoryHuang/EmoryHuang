@@ -70,10 +70,10 @@ PyCharm                  2 mins              ░░░░░░░░░░░�
 ## 📕 Latest Blog Posts
 <!-- STACKOVERFLOW:START -->
 - [量化分析因子研究](https://emoryhuang.cn/blog/2222457050.html)
+- [HED 和 RCF 图像边缘检测](https://emoryhuang.cn/blog/3165266004.html)
 - [思维工程学习笔记](https://emoryhuang.cn/blog/2717466625.html)
 - [量化分析经典策略总结](https://emoryhuang.cn/blog/3709186536.html)
 - [便利工具和网站分享](https://emoryhuang.cn/blog/1772203212.html)
-- [Linux 速查备忘手册](https://emoryhuang.cn/blog/8853766.html)
 <!-- STACKOVERFLOW:END -->
 
 ## ⚡ GitHub Stats
