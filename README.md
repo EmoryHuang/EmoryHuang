@@ -69,11 +69,11 @@ PyCharm                  2 mins              ░░░░░░░░░░░�
 
 ## 📕 Latest Blog Posts
 <!-- STACKOVERFLOW:START -->
+- [pip & conda 换源](https://emoryhuang.cn/blog/3248879688.html)
 - [K-means 学习笔记](https://emoryhuang.cn/blog/3762216339.html)
 - [支持向量机(SVM)学习笔记](https://emoryhuang.cn/blog/2581338612.html)
 - [量化分析因子研究](https://emoryhuang.cn/blog/2222457050.html)
 - [HED 和 RCF 图像边缘检测](https://emoryhuang.cn/blog/3165266004.html)
-- [思维工程学习笔记](https://emoryhuang.cn/blog/2717466625.html)
 <!-- STACKOVERFLOW:END -->
 
 ## ⚡ GitHub Stats
