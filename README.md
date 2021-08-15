@@ -69,11 +69,11 @@ PyCharm                  2 mins              ░░░░░░░░░░░�
 
 ## 📕 Latest Blog Posts
 <!-- STACKOVERFLOW:START -->
+- [Python 之 tkinter 学习笔记](https://emoryhuang.cn/blog/1384140617.html)
 - [CTP 学习笔记](https://emoryhuang.cn/blog/208450541.html)
 - [定时启动关闭程序以及 C++ 相关时间函数](https://emoryhuang.cn/blog/1985276265.html)
 - [Python 实用库必备速查表](https://emoryhuang.cn/blog/1516087737.html)
 - [Numpy 学习笔记](https://emoryhuang.cn/blog/3795854928.html)
-- [pip & conda 换源](https://emoryhuang.cn/blog/3248879688.html)
 <!-- STACKOVERFLOW:END -->
 
 ## ⚡ GitHub Stats
