@@ -12,11 +12,11 @@
 
 ## 📕 Latest Blog Posts
 <!-- STACKOVERFLOW:START -->
+- [Understanding LSTM Networks](https://emoryhuang.cn/blog/1165608611.html)
+- [OCSVM 学习笔记](https://emoryhuang.cn/blog/1510678197.html)
 - [孤立森林学习笔记](https://emoryhuang.cn/blog/1767802049.html)
 - [SQL 多表联查学习笔记](https://emoryhuang.cn/blog/1425147159.html)
 - [PyTorch 学习笔记](https://emoryhuang.cn/blog/1639121736.html)
-- [爬虫简单实践之 wallhaven](https://emoryhuang.cn/blog/1303362912.html)
-- [What the f*ck Python!](https://emoryhuang.cn/blog/4290553642.html)
 <!-- STACKOVERFLOW:END -->
 
 ## ⚡ GitHub Stats
