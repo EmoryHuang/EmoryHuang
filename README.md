@@ -12,11 +12,11 @@
 
 ## 📕 Latest Blog Posts
 <!-- STACKOVERFLOW:START -->
+- [摩尔投票法学习笔记](https://emoryhuang.cn/blog/3121210202.html)
 - [Understanding LSTM Networks](https://emoryhuang.cn/blog/1165608611.html)
 - [OCSVM 学习笔记](https://emoryhuang.cn/blog/1510678197.html)
 - [孤立森林学习笔记](https://emoryhuang.cn/blog/1767802049.html)
 - [SQL 多表联查学习笔记](https://emoryhuang.cn/blog/1425147159.html)
-- [PyTorch 学习笔记](https://emoryhuang.cn/blog/1639121736.html)
 <!-- STACKOVERFLOW:END -->
 
 ## ⚡ GitHub Stats
