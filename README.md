@@ -12,11 +12,11 @@
 
 ## 📕 Latest Blog Posts
 <!-- STACKOVERFLOW:START -->
-- [字符串之字符串哈希](https://emoryhuang.cn/blog/1197958564.html)
 - [Dynamic Error Thresholds](https://emoryhuang.cn/blog/866395246.html)
 - [VS Code SSH 不稳定的解决方法](https://emoryhuang.cn/blog/340778779.html)
 - [时间序列数据建模流程范例](https://emoryhuang.cn/blog/2120613811.html)
 - [AutoEncoder 学习笔记](https://emoryhuang.cn/blog/186594021.html)
+- [梯度下降法学习笔记](https://emoryhuang.cn/blog/1874583159.html)
 <!-- STACKOVERFLOW:END -->
 
 ## ⚡ GitHub Stats
