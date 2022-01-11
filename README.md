@@ -12,11 +12,11 @@
 
 ## 📕 Latest Blog Posts
 <!-- STACKOVERFLOW:START -->
+- [远程访问服务器的 Jupyter](https://emoryhuang.cn/blog/1452941199.html)
+- [将 Hexo 部署在云服务器](https://emoryhuang.cn/blog/1023243050.html)
 - [浅析 K-L 变换](https://emoryhuang.cn/blog/1284559837.html)
 - [字符串之字符串哈希](https://emoryhuang.cn/blog/1197958564.html)
 - [Dynamic Error Thresholds](https://emoryhuang.cn/blog/866395246.html)
-- [VS Code SSH 不稳定的解决方法](https://emoryhuang.cn/blog/340778779.html)
-- [时间序列数据建模流程范例](https://emoryhuang.cn/blog/2120613811.html)
 <!-- STACKOVERFLOW:END -->
 
 ## ⚡ GitHub Stats
