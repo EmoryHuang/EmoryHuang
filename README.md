@@ -12,11 +12,11 @@
 
 ## 📕 Latest Blog Posts
 <!-- STACKOVERFLOW:START -->
+- [Redis 时间序列](https://emoryhuang.cn/blog/2780569503.html)
 - [Modeling Extreme Events in Time Series Prediction](https://emoryhuang.cn/blog/1055934772.html)
 - [树状数组学习笔记](https://emoryhuang.cn/blog/483618645.html)
 - [Linux 文件权限](https://emoryhuang.cn/blog/1216628801.html)
 - [Spark 与 DataFrame](https://emoryhuang.cn/blog/2482242799.html)
-- [Neo4j 之 Cypher 笔记](https://emoryhuang.cn/blog/3065446617.html)
 <!-- STACKOVERFLOW:END -->
 
 ## ⚡ GitHub Stats
