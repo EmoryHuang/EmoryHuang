@@ -12,11 +12,11 @@
 
 ## 📕 Latest Blog Posts
 <!-- STACKOVERFLOW:START -->
+- [【论文阅读】Time-Series Anomaly Detection Service at Microsoft](https://emoryhuang.cn/blog/4100034120.html)
 - [Redis 时间序列](https://emoryhuang.cn/blog/2780569503.html)
-- [Modeling Extreme Events in Time Series Prediction](https://emoryhuang.cn/blog/1055934772.html)
+- [【论文阅读】Modeling Extreme Events in Time Series Prediction](https://emoryhuang.cn/blog/1055934772.html)
 - [树状数组学习笔记](https://emoryhuang.cn/blog/483618645.html)
 - [Linux 文件权限](https://emoryhuang.cn/blog/1216628801.html)
-- [Spark 与 DataFrame](https://emoryhuang.cn/blog/2482242799.html)
 <!-- STACKOVERFLOW:END -->
 
 ## ⚡ GitHub Stats
