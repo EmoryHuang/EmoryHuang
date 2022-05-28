@@ -12,11 +12,11 @@
 
 ## 📕 Latest Blog Posts
 <!-- STACKOVERFLOW:START -->
+- [使用 Caddy 替代 Nginx](https://emoryhuang.cn/blog/2668159633.html)
 - [线段树模板](https://emoryhuang.cn/blog/3153814731.html)
 - [【论文阅读】Time-Series Anomaly Detection Service at Microsoft](https://emoryhuang.cn/blog/4100034120.html)
 - [Redis 时间序列](https://emoryhuang.cn/blog/2780569503.html)
 - [【论文阅读】Modeling Extreme Events in Time Series Prediction](https://emoryhuang.cn/blog/1055934772.html)
-- [树状数组学习笔记](https://emoryhuang.cn/blog/483618645.html)
 <!-- STACKOVERFLOW:END -->
 
 ## ⚡ GitHub Stats
