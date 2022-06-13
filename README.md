@@ -12,11 +12,11 @@
 
 ## 📕 Latest Blog Posts
 <!-- STACKOVERFLOW:START -->
+- [【论文阅读】BERT:Pre-training of Deep Bidirectional Transformers for Language Understanding](https://emoryhuang.cn/blog/2857139179.html)
 - [从 Embedding 到 Word2Vec](https://emoryhuang.cn/blog/222002858.html)
 - [使用 Caddy 替代 Nginx](https://emoryhuang.cn/blog/2668159633.html)
 - [线段树模板](https://emoryhuang.cn/blog/3153814731.html)
 - [【论文阅读】Time-Series Anomaly Detection Service at Microsoft](https://emoryhuang.cn/blog/4100034120.html)
-- [Redis 时间序列](https://emoryhuang.cn/blog/2780569503.html)
 <!-- STACKOVERFLOW:END -->
 
 ## ⚡ GitHub Stats
