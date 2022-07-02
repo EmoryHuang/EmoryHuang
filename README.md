@@ -12,11 +12,11 @@
 
 ## 📕 Latest Blog Posts
 <!-- STACKOVERFLOW:START -->
+- [简单理解图神经网络 GNN](https://emoryhuang.cn/blog/656651309.html)
 - [【论文阅读】DynaPosGNN:Dynamic-Positional GNN for Next POI Recommendation](https://emoryhuang.cn/blog/1152076077.html)
 - [【论文阅读】ALBERT:A LITE BERT FOR SELF-SUPERVISED LEARNING OF LANGUAGE REPRESENTATIONS](https://emoryhuang.cn/blog/1501084282.html)
 - [【论文阅读】Attention Is All You Need](https://emoryhuang.cn/blog/2936175392.html)
 - [【论文阅读】BERT:Pre-training of Deep Bidirectional Transformers for Language Understanding](https://emoryhuang.cn/blog/2857139179.html)
-- [从 Embedding 到 Word2Vec](https://emoryhuang.cn/blog/222002858.html)
 <!-- STACKOVERFLOW:END -->
 
 ## ⚡ GitHub Stats
