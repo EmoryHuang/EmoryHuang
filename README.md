@@ -12,11 +12,11 @@
 
 ## 📕 Latest Blog Posts
 <!-- STACKOVERFLOW:START -->
+- [聊一聊损失函数](https://emoryhuang.cn/blog/3551198102.html)
 - [【论文阅读】Geography-Aware Sequential Location Recommendation](https://emoryhuang.cn/blog/1608683519.html)
 - [简单理解图神经网络 GNN](https://emoryhuang.cn/blog/656651309.html)
 - [【论文阅读】DynaPosGNN:Dynamic-Positional GNN for Next POI Recommendation](https://emoryhuang.cn/blog/1152076077.html)
 - [【论文阅读】ALBERT:A LITE BERT FOR SELF-SUPERVISED LEARNING OF LANGUAGE REPRESENTATIONS](https://emoryhuang.cn/blog/1501084282.html)
-- [【论文阅读】Attention Is All You Need](https://emoryhuang.cn/blog/2936175392.html)
 <!-- STACKOVERFLOW:END -->
 
 ## ⚡ GitHub Stats
