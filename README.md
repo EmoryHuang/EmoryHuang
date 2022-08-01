@@ -12,11 +12,11 @@
 
 ## 📕 Latest Blog Posts
 <!-- STACKOVERFLOW:START -->
+- [【论文阅读】STAN:Spatio-Temporal Attention Network for Next Location Recommendation](https://emoryhuang.cn/blog/2428125584.html)
 - [Time2Vec 的理解与简单实现](https://emoryhuang.cn/blog/3056744315.html)
 - [【论文阅读】GETNext:Trajectory Flow Map Enhanced Transformer for Next POI Recommendation](https://emoryhuang.cn/blog/4228286132.html)
 - [聊一聊损失函数](https://emoryhuang.cn/blog/3551198102.html)
 - [【论文阅读】Geography-Aware Sequential Location Recommendation](https://emoryhuang.cn/blog/1608683519.html)
-- [简单理解图神经网络 GNN](https://emoryhuang.cn/blog/656651309.html)
 <!-- STACKOVERFLOW:END -->
 
 ## ⚡ GitHub Stats
