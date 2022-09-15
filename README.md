@@ -12,11 +12,11 @@
 
 ## 📕 Latest Blog Posts
 <!-- STACKOVERFLOW:START -->
+- [【论文阅读】Curriculum Meta-Learning for Next POI Recommendation](https://emoryhuang.cn/blog/2857152510.html)
+- [【论文阅读】Location prediction over sparse user mobility traces using RNNs: Flashback in hidden states!](https://emoryhuang.cn/blog/2899228234.html)
 - [【论文阅读】Next Point-of-Interest Recommendation with Inferring Multi-step Future Preferences](https://emoryhuang.cn/blog/1578428536.html)
 - [【论文阅读】Graph-Flashback Network for Next Location Recommendation](https://emoryhuang.cn/blog/3047288365.html)
 - [【论文阅读】Modeling Spatio-temporal Neighbourhood for Personalized Point-of-interest Recommendation](https://emoryhuang.cn/blog/2071701348.html)
-- [【论文阅读】STAN:Spatio-Temporal Attention Network for Next Location Recommendation](https://emoryhuang.cn/blog/2428125584.html)
-- [Time2Vec 的理解与简单实现](https://emoryhuang.cn/blog/3056744315.html)
 <!-- STACKOVERFLOW:END -->
 
 ## ⚡ GitHub Stats
