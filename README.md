@@ -12,11 +12,11 @@
 
 ## 📕 Latest Blog Posts
 <!-- STACKOVERFLOW:START -->
+- [【论文阅读】Empowering next POI recommendation with multi-relational modeling](https://emoryhuang.cn/blog/4203594080.html)
 - [【论文阅读】Hierarchical multi-task graph recurrent network for next POI recommendation](https://emoryhuang.cn/blog/362082315.html)
 - [【论文阅读】Learning Graph-based Disentangled Representations for Next POI Recommendation](https://emoryhuang.cn/blog/1699392192.html)
 - [【论文阅读】Curriculum Meta-Learning for Next POI Recommendation](https://emoryhuang.cn/blog/2857152510.html)
 - [【论文阅读】Location prediction over sparse user mobility traces using RNNs: Flashback in hidden states!](https://emoryhuang.cn/blog/2899228234.html)
-- [【论文阅读】Next Point-of-Interest Recommendation with Inferring Multi-step Future Preferences](https://emoryhuang.cn/blog/1578428536.html)
 <!-- STACKOVERFLOW:END -->
 
 ## ⚡ GitHub Stats
