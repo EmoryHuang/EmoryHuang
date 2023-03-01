@@ -12,12 +12,12 @@
 
 ## 📕 Latest Blog Posts
 <!-- STACKOVERFLOW:START -->
+- [使用 LaTeX 进行论文写作](https://emoryhuang.cn/blog/2762303743.html)
 - [使用 PyG 进行图神经网络训练](https://emoryhuang.cn/blog/683141325.html)
 - [【论文阅读】ST-PIL: Spatial-Temporal Periodic Interest Learning for Next Point-of-Interest Recommendation](https://emoryhuang.cn/blog/1329760803.html)
 - [【论文阅读】Next point-of-interest recommendation with auto-correlation enhanced
  multi-modal transformer network](https://emoryhuang.cn/blog/2631345981.html)
 - [【论文阅读】Empowering next POI recommendation with multi-relational modeling](https://emoryhuang.cn/blog/4203594080.html)
-- [【论文阅读】Hierarchical multi-task graph recurrent network for next POI recommendation](https://emoryhuang.cn/blog/362082315.html)
 <!-- STACKOVERFLOW:END -->
 
 ## ⚡ GitHub Stats
