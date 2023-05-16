@@ -12,11 +12,11 @@
 
 ## 📕 Latest Blog Posts
 <!-- STACKOVERFLOW:START -->
+- [【论文阅读】Hierarchical knowledge graph learning enabled socioeconomic indicator prediction in location-based social network](https://emoryhuang.cn/blog/4050989876.html)
 - [【论文阅读】HIP network:Historical information passing network for extrapolation reasoning on temporal knowledge graph](https://emoryhuang.cn/blog/1257529973.html)
 - [【论文阅读】Temporal knowledge graph reasoning based on evolutional representation learning](https://emoryhuang.cn/blog/3305569686.html)
 - [【论文阅读】DisenPOI Disentangling sequential and geographical influence for point-of-interest recommendation](https://emoryhuang.cn/blog/708003372.html)
 - [使用 LaTeX 进行论文写作](https://emoryhuang.cn/blog/2762303743.html)
-- [使用 PyG 进行图神经网络训练](https://emoryhuang.cn/blog/683141325.html)
 <!-- STACKOVERFLOW:END -->
 
 ## ⚡ GitHub Stats
